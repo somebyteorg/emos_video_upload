@@ -1,0 +1,17 @@
+.idea
+.DS_Store
+
+tmp
+dbdata
+
+/emos-video-upload
+
+web/dist/
+web/node_modules/
+web/pnpm-lock.yaml
+web/*.d.ts
+
+.env
+.env.production
+.dev.vars
+
